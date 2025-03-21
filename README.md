@@ -4,7 +4,7 @@
 
 **Research Engineer & PhD Student**
 
-Welcome to my GitHub page—a simple, retro-styled hub where I share my research, projects, and software tools. I'm a research engineer and PhD student specializing in AI research. My work blends timeless aesthetics with cutting-edge innovation.
+I am a structural engineer currently pursuing a PhD at Arizona State University. My research focuses on the design and testing of concrete composites.
 
 ---
 
