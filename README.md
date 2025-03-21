@@ -4,7 +4,7 @@
 
 **Research Engineer & PhD Student**
 
-I am a structural engineer currently pursuing a PhD at Arizona State University. My research focuses on the design and testing of concrete composites.
+I am a structural engineer currently pursuing a PhD at Arizona State University. My research focuses on the design, testing and characterization of concrete composites.
 
 ---
 
