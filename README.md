@@ -10,7 +10,7 @@ I am a structural engineer currently pursuing a PhD at Arizona State University.
 
 ## Latest Research
 
-- **[Paper Title 1](#)** – A brief description of the research and its outcomes.  
+- **[Applications of statistical process control in the evaluation of QC test data for residual strength of FRC samples of tunnel lining segments]([#](https://link.springer.com/chapter/10.1007/978-3-030-58482-5_72))** – A brief description of the research and its outcomes.  
 - **[Paper Title 2](#)** – A brief description of the research and its outcomes.  
 - *More to be added...*
 
