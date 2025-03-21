@@ -24,13 +24,11 @@ I am a structural engineer currently pursuing a PhD at Arizona State University.
 - **[An Inverse Analysis and Design software for R/UHPC and R/FRC (HRC) in flexure](https://www.researchgate.net/publication/389270631_An_Inverse_Analysis_and_Design_software_for_RUHPC_and_RFRC_HRC_in_flexure)** – Latest Version uploaded on 3/25.
 - *More tools coming soon...*
 ---
-<!-- 
-## Projects
 
-- **[Project Name 1](#)** – Overview of the project and its objectives.  
-- **[Project Name 2](#)** – Overview of the project and its objectives.  
+## Projects and News
+
+- **[Best of the Best Winners: Northwest Phase II Extension Light Rail Transit](https://www.enr.com/articles/60442-project-of-the-year-finalist-airport-transit-northwest-phase-ii-extension-light-rail-transit)** – Our project is a US finalist for ENR awards where I was the lead researcher.
 - *Stay tuned for updates...*
--->
 ---
 
 ## Latest Work
