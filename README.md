@@ -52,19 +52,19 @@ A collection of my projects and collaborative works:
 
 ## Photo Gallery
 
-Below is a dynamic photo slideshow. Simply upload your images to the designated folder (for example, `images/`) and update the JavaScript array with your file names and descriptions.
-
 <div id="slideshow-container" style="max-width: 600px; margin: auto; text-align: center;">
-  <img id="slide" src="images/photo1.jpg" alt="Slideshow Image" style="width: 100%; max-height: 400px; object-fit: cover; border: 1px solid #ccc;">
+  <!-- Initial slide image -->
+  <img id="slide" src="images/photo1.png" alt="Slideshow Image" 
+       style="width: 100%; max-height: 400px; object-fit: cover; border: 1px solid #ccc;">
   <div id="slide-description" style="margin-top: 10px; font-style: italic;">Description for photo 1</div>
 </div>
 
 <script>
-  // Array of slides - add as many images and descriptions as needed.
+  // Array of slides - you can use .png, .jpg, .gif, etc.
   const slides = [
-    { image: "images/photo1.jpg", description: "Description for photo 1" },
+    { image: "images/photo1.png", description: "Description for photo 1" },
     { image: "images/photo2.jpg", description: "Description for photo 2" },
-    { image: "images/photo3.jpg", description: "Description for photo 3" }
+    { image: "images/photo3.png", description: "Description for photo 3" }
   ];
   
   let currentSlide = 0;
@@ -80,9 +80,13 @@ Below is a dynamic photo slideshow. Simply upload your images to the designated 
     showSlide(currentSlide);
   }
   
+  // Show the first slide immediately
+  showSlide(currentSlide);
+
   // Change slide every 3 seconds
   setInterval(nextSlide, 3000);
 </script>
+
 
 ---
 
