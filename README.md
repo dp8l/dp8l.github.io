@@ -18,13 +18,11 @@ I am a structural engineer currently pursuing a PhD at Arizona State University.
 - *More to be added...*
 
 ---
-<!-- 
+
 ## Software Links
 
-- **[Software Tool 1](#)** – Short description of the tool and its features.  
-- **[Software Tool 2](#)** – Short description of the tool and its features.  
+- **[An Inverse Analysis and Design software for R/UHPC and R/FRC (HRC) in flexure](https://www.researchgate.net/publication/389270631_An_Inverse_Analysis_and_Design_software_for_RUHPC_and_RFRC_HRC_in_flexure)** – Latest Version uploaded on 3/25.
 - *More tools coming soon...*
--->
 ---
 <!-- 
 ## Projects
