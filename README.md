@@ -13,7 +13,7 @@
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- Profile Picture -->
   <div style="flex: 0 0 auto; margin-right: 20px;">
-    <img src="./Devansh%20Patel.jpg" alt="Devansh Patel" width="200" style="border-radius: 50%; border: 2px solid #ccc;" />
+    <img src="./Devansh%20Patel.jpg" alt="Devansh Patel" width="100" style="border-radius: 50%; border: 2px solid #ccc;" />
   </div>
   <!-- Intro Text -->
   <div style="flex: 1;">
