@@ -13,11 +13,15 @@
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- Profile Picture -->
   <div style="flex: 0 0 auto; margin-right: 20px;">
-    <img src="./Devansh%20Patel.jpg" alt="Devansh Patel" width="100" style="border-radius: 50%; border: 2px solid #ccc;" />
+    <!-- Update the image path below to match your file name in the 'shared' folder -->
+    <img src="./shared/Devansh%20Patel.jpg" alt="Devansh Patel" 
+         style="width: 200px; border-radius: 50%; border: 2px solid #ccc;">
   </div>
   <!-- Intro Text -->
   <div style="flex: 1;">
-    <p>Welcome to my GitHub page—a simple, retro-styled hub where I share my research, projects, and software tools. I'm a research engineer and PhD student specializing in AI research. My work blends timeless aesthetics with cutting-edge innovation.</p>
+    <p>Welcome to my GitHub page—a simple, retro-styled hub where I share my research, projects, and software tools. 
+    I'm a research engineer and PhD student specializing in AI research. My work blends timeless aesthetics 
+    with cutting-edge innovation.</p>
   </div>
 </div>
 
@@ -52,19 +56,21 @@ A collection of my projects and collaborative works:
 
 ## Photo Gallery
 
+Below is a dynamic photo slideshow. Place your images in the `shared` folder, then update the `slides` array with the correct file names (PNG, JPG, etc.) and descriptions.
+
 <div id="slideshow-container" style="max-width: 600px; margin: auto; text-align: center;">
   <!-- Initial slide image -->
-  <img id="slide" src="images/photo1.png" alt="Slideshow Image" 
+  <img id="slide" src="./shared/photo1.png" alt="Slideshow Image" 
        style="width: 100%; max-height: 400px; object-fit: cover; border: 1px solid #ccc;">
   <div id="slide-description" style="margin-top: 10px; font-style: italic;">Description for photo 1</div>
 </div>
 
 <script>
-  // Array of slides - you can use .png, .jpg, .gif, etc.
+  // Array of slides - you can use PNG, JPG, GIF, etc.
   const slides = [
-    { image: "images/photo1.png", description: "Description for photo 1" },
-    { image: "images/photo2.jpg", description: "Description for photo 2" },
-    { image: "images/photo3.png", description: "Description for photo 3" }
+    { image: "./shared/photo1.png", description: "Description for photo 1" },
+    { image: "./shared/photo2.jpg", description: "Description for photo 2" },
+    { image: "./shared/photo3.png", description: "Description for photo 3" }
   ];
   
   let currentSlide = 0;
@@ -86,7 +92,6 @@ A collection of my projects and collaborative works:
   // Change slide every 3 seconds
   setInterval(nextSlide, 3000);
 </script>
-
 
 ---
 
