@@ -10,6 +10,7 @@ Structural engineer currently pursuing PhD from Arizona State University. My res
 
 ## Latest Research
 
+- **[Back‐calculation of mechanical properties of fiber‐reinforced concrete in tunnel lining segments](https://onlinelibrary.wiley.com/doi/abs/10.1002/suco.70052)**
 - **[Applications of statistical process control in the evaluation of QC test data for residual strength of FRC samples of tunnel lining segments](https://link.springer.com/chapter/10.1007/978-3-030-58482-5_72)**
 - **[Generalized Nonlinear Moment–Curvature Model for Serviceability-Based Design of Hybrid Reinforced Concrete](https://ascelibrary.org/doi/abs/10.1061/JSENDH.STENG-12235)**
 - **[Mechanical response of precast tunnel segments with steel and synthetic macro-fibers](https://www.sciencedirect.com/science/article/abs/pii/S0958946523003773)**
