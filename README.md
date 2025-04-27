@@ -36,7 +36,6 @@ Structural engineer currently pursuing PhD from Arizona State University. My res
    ![Image One](./shared/photo3.png)
    ![Image One](./shared/photo4.png)
 > *Note:* Email me for details.
-
 ---
 
 ## Contact
@@ -44,6 +43,7 @@ Structural engineer currently pursuing PhD from Arizona State University. My res
 If you'd like to connect or have any inquiries, feel free to reach out:  
 - **Email:** [dpatel52@asu.edu](mailto:your.dpatel52@asu.edu)  
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/devanshpatl/)
+- **Github:** [Github Profile](https://https://dp8l.github.io/)
 
 ---
 
