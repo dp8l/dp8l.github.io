@@ -33,16 +33,21 @@ Structural engineer currently pursuing PhD from Arizona State University. My res
 
 ## Latest Work
 
-1. **Checkout our latest software:**  
-   ![Image One](./shared/photo3.png)
-   ![Image One](./shared/photo4.png)
-   ![Image One](./shared/Photo5.png)
-   ![Image One](./shared/Photo6.png)
-   <video controls playsinline preload="metadata" width="900">
+**Checkout our latest software:**
+
+![Image One](/shared/photo3.png)
+![Image Two](/shared/photo4.png)
+![Image Three](/shared/photo5.png)
+![Image Four](/shared/photo6.png)
+
+<video controls playsinline preload="metadata" width="900">
   <source src="/shared/video.mp4" type="video/mp4">
 </video>
+
 > *Note:* Email me for details.
+
 ---
+
 
 ## Contact
 
