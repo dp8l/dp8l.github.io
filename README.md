@@ -35,14 +35,12 @@ Structural engineer currently pursuing PhD from Arizona State University. My res
 
 **Checkout our latest software:**
 
+We are working on building first principal based design software for concrete composites to design the future!
+
 ![Image One](/shared/photo3.png)
 ![Image Two](/shared/photo4.png)
-![Image Three](/shared/photo5.png)
+![Image Three](/shared/Photo5.png)
 ![Image Four](/shared/photo6.png)
-
-<video controls playsinline preload="metadata" width="900">
-  <source src="/shared/video.mp4" type="video/mp4">
-</video>
 
 > *Note:* Email me for details.
 
