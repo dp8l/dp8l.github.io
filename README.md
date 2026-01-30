@@ -20,7 +20,7 @@ Structural engineer currently pursuing PhD from Arizona State University. My res
 - **[Design of UHPC Structural Connection Elements for Precast Bridge Decks](https://link.springer.com/chapter/10.1007/978-3-031-70145-0_35)**
 - **[Statistical Process Control of Fiber-Reinforced Concrete Precast Tunnel Segments](https://www.concrete.org/publications/internationalconcreteabstractsportal/m/details/id/51740373)** 
 
-## Latest Conference Paper
+## Peer-reviewed Conference Proceedings
 
 - **[Characterization of Constitutive Response of Natural FRC under Flexural Loading](https://research.tudelft.nl/en/publications/characterization-of-constitutive-response-of-natural-fibers-reinf/)**
 - **[Design of UHPC Structural Connection Elements for Precast Bridge Decks](https://link.springer.com/chapter/10.1007/978-3-031-70145-0_35)**
