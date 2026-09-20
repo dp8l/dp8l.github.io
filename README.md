@@ -2,7 +2,7 @@
 
 Personal site, served by GitHub Pages at https://dp8l.github.io/.
 
-Structural engineer and PhD student at Arizona State University. Concrete composites, inverse analysis, and the HRC Designer software (https://www.hrcdesigner.com).
+Structural engineer and PhD candidate at Arizona State University. Concrete composites, inverse analysis, and the HRC Designer software (https://www.hrcdesigner.com).
 
 ## Layout
 
@@ -16,4 +16,5 @@ Structural engineer and PhD student at Arizona State University. Concrete compos
 
 - New paper. Copy one `<li class="pub">` block in `index.html`, set `data-type` to `journal` or `conference`, and update the three counts in the filter buttons.
 - New release. Change the version and date in the Software section and in the Latest strip near the top.
+- New video. Copy one `<li class="vid">` block in the Media section. For YouTube, set `data-yt` to the video id and the thumbnail to `https://i.ytimg.com/vi/<id>/hqdefault.jpg`. The page swaps the thumbnail for a player on click. For a video hosted elsewhere, drop `data-yt` and the link opens the source page.
 - Bump the `Rev` date in the footer title block when you publish.
